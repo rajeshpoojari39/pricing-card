@@ -123,9 +123,9 @@ const PricingCard = ({ pricingDetails }) => {
             </li>
           </ul>
           <div className='d-grid'>
-            <a href='#' className='btn btn-primary btn-block text-uppercase'>
+            <button className='btn btn-primary btn-block text-uppercase'>
               Button
-            </a>
+            </button>
           </div>
         </div>
       </div>
